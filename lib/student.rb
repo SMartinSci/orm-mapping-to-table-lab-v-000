@@ -38,6 +38,5 @@ class Student
     Student.save
     student
   end
-  end
-
+end
 end
